@@ -1,0 +1,83 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario {
+  width: 500px;
+  margin: auto;
+  padding-top: 40px;
+  border-radius: 15px;
+}
+
+.card {
+  box-shadow: 1px 1px 1px #ccc;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.card-top {
+  text-align: center;
+}
+
+.card-group {
+  margin-top: 5px;
+}
+
+.card-group {
+  align-items: center;
+}
+
+.card-group > label{
+  margin-top: 15px;
+  font-size: 18px;
+  width: 100%;
+  color: red;
+  display: block;
+}
+
+
+.card-group > input { 
+  margin-top: 2px; 
+  border-radius: 5px;
+  display: block;
+  outline: 0;
+  width: 99%;
+  height: 25px;
+  font-size: 16px;
+}
+
+.card-group > button {
+  margin-top: 10px;
+  background-image: linear-gradient(to left, brown, red);
+  border-radius: 30px;
+  width: 100%;
+  padding: 15px;
+  color: #fff;
+  outline: 0;
+  font-size: 20px;
+  box-shadow: 1px 1px 3px black;
+}
+
+.card-group > button:hover {
+  background-image: linear-gradient(to right, brown, red);
+  color: #fff;
+}
+.imgLogin {
+  border-radius: 200px;
+  width: 210px;
+  height: 210px;
+  box-shadow: 1px 1px 5px black;
+}
+
+.Baita-lanches {
+  margin-top: 10px;
+  color: #dc3545;
+  font-size: 50px;
+}
+
+.frases {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
